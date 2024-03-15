@@ -1,0 +1,33 @@
+{
+  "name": "brewerly",
+  "version": "1.0.1",
+  "description": "brewery tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amapas/brewerly"
+  },
+  "keywords": [
+    "tools",
+    "brew"
+  ],
+  "author": "amapas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amapas/brewerly/issues"
+  },
+  "homepage": "https://github.com/amapas/brewerly#readme",
+  "dependencies": {
+    "cubitt":"^1.0.3",
+    "charty0x":"^1.0.1",
+    "pemilu":"^1.0.0",
+    "guessdc":"^1.0.0",
+    "aijio":"^1.0.1",
+    "bearmarket":"^1.0.1",
+    "zulkoplo":"^1.0.1",
+    "matchax":"^1.0.1"
+  }
+}
